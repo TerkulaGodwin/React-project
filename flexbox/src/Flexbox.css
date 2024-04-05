@@ -1,0 +1,184 @@
+.Flex-container {
+  width: 500px;
+  height: 500px;
+  background-color: blueviolet;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Flex-only {
+  display: flex;
+  align-items: start;
+  justify-content: space-evenly;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  height: 300px;
+
+  grid-gap: 8px;
+}
+
+.grid-container > h1 {
+  margin: 0%;
+  padding: 0px;
+}
+
+.grid1 {
+  background-color: blue;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid2 {
+  background-color: aqua;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid3 {
+  background-color: crimson;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid4 {
+  background-color: fuchsia;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid5 {
+  background-color: khaki;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid6 {
+  background-color: darkred;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid7 {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid8 {
+  background-color: azure;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid9 {
+  background-color: wheat;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid10 {
+  background-color: lightsalmon;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid11 {
+  background-color: cornflowerblue;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid12 {
+  background-color: burlywood;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid13 {
+  background-color: chartreuse;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid14 {
+  background-color: darkolivegreen;
+  height: 100px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid15 {
+  background-color: coral;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid16 {
+  background-color: tomato;
+  height: 100px;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lab1 {
+  background-color: whitesmoke;
+  width: fit-content;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lab2 {
+  background-color: brown;
+  width: fit-content;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lab3 {
+  background-color: chartreuse;
+  width: fit-content;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lab4 {
+  background-color: deeppink;
+  width: fit-content;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
